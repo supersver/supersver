@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @supersver
-- 👀 I’m interested in Web development and Designing
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning ReactJS and NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
