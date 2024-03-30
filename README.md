@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd development
 - 🌱 I’m currently working with ReactJS, NextJS and TailwindCSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at manishjangir.in
+- 📫 Reach me at
 
 <!---
 supersver/supersver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
