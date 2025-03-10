@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @supersver
-- 👀 I’m a FrontEnd developer
-- 🌱 I’m also a founding developer of flowscale.ai, where we provide the best experience possible for deploying, developing, and creating a collaborative team environment for your ComfyUI workflows.
+- 👀 I’m a core developer @flowscale.ai
+- 🌱 Checkout flowscale.ai, where we provide the best experience possible for deploying, developing, and creating a collaborative team environment for your ComfyUI workflows.
 - 📫 Reach me at jangirmanish660@gmail.com
 
 <!---
