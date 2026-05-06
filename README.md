@@ -48,17 +48,22 @@ Building fast, polished, and scalable web experiences with modern frontend tooli
 
 <div>
 
+### Projects I contributed to
+
 ### FlowScale AI OS
 Open-source desktop platform for running AI tools across your own infrastructure.
 
 ### FlowScale Hub
 Cloud platform for deploying ComfyUI workflows as production-ready APIs.
 
-### BasketBay
-Modern e-commerce frontend built with React and TypeScript.
-
 ### Petavue
 AI-powered analytics platform with clean dashboards and product-focused UX.
+
+
+### Personal / side projects
+
+### BasketBay
+Modern e-commerce frontend built with React and TypeScript.
 
 </div>
 
