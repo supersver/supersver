@@ -57,7 +57,12 @@ Open-source desktop platform for running AI tools across your own infrastructure
 Cloud platform for deploying ComfyUI workflows as production-ready APIs.
 
 ### Petavue
-AI-powered analytics platform with clean dashboards and product-focused UX.
+Contributed to the early frontend development of Petavue, helping build core UI experiences and scalable frontend foundations for the AI-driven
+GTM analytics platform.
+
+### ShopOS
+Contributed to the early frontend development of HOM (House of Models), now known as ShopOS, an AI-driven ecommerce platform focused on
+content and commerce workflows.
 
 
 ### Personal / side projects
